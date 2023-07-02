@@ -1,0 +1,3 @@
+/Users/christianbrown/Code/C++/face_detection/build/CMakeFiles/test.dir
+/Users/christianbrown/Code/C++/face_detection/build/CMakeFiles/edit_cache.dir
+/Users/christianbrown/Code/C++/face_detection/build/CMakeFiles/rebuild_cache.dir

@@ -1,5 +1,11 @@
 Author: Christian H. Brown July 2nd, 2023
 
+##########DISCLAIMER###########
+    This project followed a tutorial listed by 
+    "https://medium.com/analytics-vidhya/building-a-face-detector-with-opencv-in-c-8814cd374ea1"
+    The purpose of this project is to better understand C++ and OpenCV.
+###############################
+
 Title: Face Detection using OpenCV, C++
 
 Description:

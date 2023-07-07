@@ -15,8 +15,8 @@ int main(int argc, char** argv){
      while (true) {
          video_capture >> frame;
          auto rectangles = face_detector.detect_face_rectangles(frame);
-         Scalar color(0, 105, 205);
-         int frame_thickness = 4;
+         Scalar color(0, 200, 205);
+         int frame_thickness = 7;
          for(const auto & r : rectangles){
              rectangle(frame, r, color, frame_thickness);
          }
